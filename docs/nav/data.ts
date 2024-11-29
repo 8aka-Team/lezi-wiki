@@ -10,6 +10,12 @@ export const NAV_DATA: NavData[] = [
     title: '长篇',
     items: [
       {
+        icon: 'https://www.emojiall.com/en/header-svg/%E2%98%9D%EF%B8%8F.svg',
+        title: '抽象魔怔地球传',
+        desc: '我们有盒武器！谁也打败不了我们',
+        link: '/article/earth',
+      },
+      {
         icon: 'https://www.emojiall.com/images/240/emojione/1f90f.png',
         title: '芷溪列传',
         desc: '梦开始的地方',
@@ -111,10 +117,10 @@ export const NAV_DATA: NavData[] = [
         link: '/article/青柠传',
       },
       {
-        icon: 'https://www.emojiall.com/images/240/symbola/e0032.png',
-        title: '二人传',
-        desc: '双主角模式',
-        link: '/article/二人传',
+        icon: 'https://www.emojiall.com/images/120/joypixels/0033-20e3.png',
+        title: '三人传',
+        desc: '三主角模式',
+        link: '/article/三人传',
       },
     ],
   },
@@ -162,6 +168,12 @@ export const NAV_DATA: NavData[] = [
         title: '忍冬藤传',
         desc: '首先排除这是自己的问题',
         link: '/article/忍冬藤传',
+      },
+      {
+        icon: 'https://www.emojiall.com/en/header-svg/%E2%98%9D%EF%B8%8F.svg',
+        title: 'zAilyn传',
+        desc: '听我说，把服务器的模组删掉，换我推荐的这个，好！',
+        link: '/article/zAilyn_',
       },
     ],
   },

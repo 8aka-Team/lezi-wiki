@@ -50,13 +50,7 @@
 ![](/others/earth/台独3.jpg)
 </details>
 
-### 外部链接
-MINEBBS帖子（第一人称叙事）
-https://www.minebbs.com/threads/22229
-https://www.minebbs.com/threads/ol-2.26752/
 
-所有已收录的逆天截图，均来自于潜入群聊的热心玩家
-https://www.123pan.com/s/WiuUVv-l2P0H
 
 ### 到这里团体告一段落了
 519682869这个群截至仍禁言着，极有可能是转移阵地了，很可惜，我们的卧底没有跟上
@@ -93,3 +87,10 @@ PS:据说所谓的真实姓名和照片是看了战虎发在小世界的和室�
 ## 持续更新
 ![](/others/earth/2.jpg)
 
+### 外部链接
+MINEBBS帖子（第一人称叙事）
+https://www.minebbs.com/threads/22229
+https://www.minebbs.com/threads/ol-2.26752/
+
+所有已收录的逆天截图，均来自于潜入群聊的热心玩家
+https://www.123pan.com/s/WiuUVv-l2P0H

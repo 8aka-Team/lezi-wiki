@@ -132,13 +132,15 @@
 
 ## 究极嘴强王者
 
+加特林机枪都甘拜下风
+
 <details>
 
-加特林机枪都甘拜下风
+<summary>展开长图</summary>
 
 ![](/others/earth/Wu/刷屏炸群.png)
 
-<summary>展开长图</summary>
+</details>
 
 恢复管理后开始继续用那套说辞刷屏、人身攻击，摇人炸群
 

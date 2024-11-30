@@ -242,8 +242,8 @@ export const NAV_DATA: NavData[] = [
       },
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
-        title: '提pr把build.yml“汉化”了',
-        desc: '还是汉化大佬',
+        title: '还是汉化大佬',
+        desc: '提pr把build.yml“汉化”了，是故意的还是不小心的🔫',
         link: 'https://github.com/Perfare/Zygisk-Il2CppDumper/pull/169',
       },
       {
@@ -269,6 +269,12 @@ export const NAV_DATA: NavData[] = [
         title: '闪星传',
         desc: '鉴定为玩原神玩的',
         link: '/article/闪星传',
+      },
+            {
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%8D%88.svg',
+        title: '真·大瓜',
+        desc: '大瓜！速看，马上撤回',
+        link: '/article/真大瓜',
       },
     ],
   },

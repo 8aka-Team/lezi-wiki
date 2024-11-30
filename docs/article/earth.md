@@ -134,6 +134,10 @@
 
 <details>
 
+加特林机枪都甘拜下风
+
+![](/others/earth/Wu/刷屏炸群.png)
+
 <summary>展开长图</summary>
 
 恢复管理后开始继续用那套说辞刷屏、人身攻击，摇人炸群

@@ -15,7 +15,6 @@
 # 在地球OL服务器里搞事
 
 ### 自曝隐私
-
 <details>
   
 <summary>点击展开</summary>
@@ -35,9 +34,7 @@
 </details>
 
 ###   在群里引战、刷屏、发姓名
-
 <details>
-  
 <summary>点击展开长图</summary>
 
 简介：地球Online，是一个世界地图服务器，腐竹为迷离（暂不讨论），曾和地球村服务器联谊，地图存档均由战虎制作并调配，迷离提供高容量高RAM云主机用于生成大体积地图
@@ -56,9 +53,7 @@
 </details>
 
 ### 接二连三的“开盒”
-
 <details>
-  
 <summary>点击展开长图</summary>
 
 （生成大众名）
@@ -79,7 +74,6 @@
 ## 四大天王
 
 <details>
-  
 <summary>点击展开</summary>
 
 骨干成员——主力输出
@@ -94,7 +88,6 @@
 ## 极端地域黑，挑起民族仇恨
 
 <details>
-  
 <summary>点击展开长图</summary>
 
 ![](/others/earth/河南、上海震怒.jpg)
@@ -103,9 +96,8 @@
 
 
 
-## T -- W -- 独立
+## T --- W -- 独立
 <details>
-  
 <summary>政治敏感警告</summary>
 
 ![](/others/earth/台独1.jpg)
@@ -119,7 +111,6 @@
 
 
 ### 到这里魔怔地球告一段落了
-
 519682869这个群截至仍禁言着，极有可能是转移阵地了，很可惜，我们的卧底没有跟上
 
 ![](/others/earth/群现状.jpg)
@@ -129,9 +120,7 @@
 让我们回到地球OL
 
 ## 顶级召唤师
-
 <details>
-  
 <summary>展开长图</summary>
 
 记录于大年三十
@@ -139,20 +128,13 @@
 ![](/others/earth/Wu/深夜邀请水军炸群.jpg)
 
 </details>
-
 因此事造成恶劣影响，后来它被撤销管理员一段时间，群聊安定。直到5月下旬，迷离计划再次恢复Wu的管理，时任管理战虎（今战狼的真身大号）认为不应该让劣迹玩家进入管理员层，相当于给恶俗圈开后门，于是踢出了Wu，但因不可告人之原因，迷离仍邀请回Wu并恢复了管理，于是有下面的事件👇
 
 ## 究极嘴强王者
 
-加特林机枪都甘拜下风
-
 <details>
 
 <summary>展开长图</summary>
-
-![](/others/earth/Wu/刷屏炸群.png)
-
-</details>
 
 恢复管理后开始继续用那套说辞刷屏、人身攻击，摇人炸群
 
@@ -162,6 +144,7 @@
 
 PS:据说所谓的真实姓名和照片是看了战虎发在小世界的和室友毕业合照抠下来的（不是查ICP备案！绝对不是😱）
 
+![](/others/earth/Wu/深夜邀请水军炸群.jpg)
 
 ![](/others/earth/Wu/1.png)
 ![](/others/earth/Wu/2.png)
@@ -185,5 +168,5 @@ MINEBBS帖子（第一人称叙事）
 https://www.minebbs.com/threads/22229
 https://www.minebbs.com/threads/ol-2.26752/
 
-所有已收录的逆天截图，来自于潜入群聊的热心玩家
+所有已收录的逆天截图，均来自于潜入群聊的热心玩家
 https://www.123pan.com/s/WiuUVv-l2P0H

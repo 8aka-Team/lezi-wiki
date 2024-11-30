@@ -4,8 +4,17 @@
 
 ## 用动漫头像的都nc
 
+<details>
+  
+![](/others/pankuler传/2.png)
+  
+</details>
+
 当时YYT甚至全体禁言单独给了pankuler管理员，一对一对话
+
 （改名为Cake了）
+
+某人私信怂恿它趁机会踢人，它拒绝了,不过图没保存，无从考证了（悲）
 
 <details>
 <summary>点击展开</summary>
@@ -30,15 +39,9 @@
 </video>
 </details>
 
-### 光 明 磊 落
 
-某人私信怂恿它趁机会踢人，它拒绝了,不过图没保存，无从考证了（悲）
 
-<details>
-  
-![](/others/pankuler传/2.png)
-  
-</details>
+
 
 ## 大佬怎么整IDEA
 

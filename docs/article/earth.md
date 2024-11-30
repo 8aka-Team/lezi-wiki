@@ -25,7 +25,7 @@
 因为后悔发了自己个人信息刷屏AT管理员撤回，但被禁言了（滑稽）
 ![](/others/earth/刷屏被禁言.png)
 ![](/others/earth/刷屏被禁言后私聊辱骂管理.png)
-![](/others/earth/深夜潜入群聊刷屏炸群.png)
+![](/others/earth/深夜潜入群聊刷屏.png)
 
 </details>
 

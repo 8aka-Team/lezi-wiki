@@ -140,7 +140,7 @@ export const NAV_DATA: NavData[] = [
         link: '/article/NellyWidthPlugin传',
       },
       {
-        icon: 'https://www.emojiall.com/images/120/twitter/twemoji-2.3/1f92f.png',
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%A4%AF.svg',
         title: 'Steve传',
         desc: '原来你也玩原神',
         link: '/article/Steve传',
@@ -158,7 +158,7 @@ export const NAV_DATA: NavData[] = [
         link: '/article/世人价传',
       },
       {
-        icon: 'https://www.emojiall.com/images/120/apple/ios-12.1/1f9e8.png',
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%A7%A8.svg',
         title: 'pankuler传',
         desc: '究极地图炮',
         link: '/article/pankuler传',

@@ -5,6 +5,14 @@
 ## 先记着这个Wu，后面要考
 ![](/others/earth/Wu.jpg)
 
+### 自曝隐私
+
+![](/others/earth/自曝.png)
+
+然后反悔了开始求人帮忙了
+
+![](/others/earth/后悔发布自己隐私信息.png)
+
 ###   在别人服务器群里引战、刷屏、发随机姓名
 <details>
 <summary>点击展开长图</summary>
@@ -13,6 +21,8 @@
 
 ![](/others/earth/0.jpg)
 ![](/others/earth/1.jpg)
+
+因为后悔发了自己个人信息刷屏AT管理员撤回，但被禁言了（滑稽）
 ![](/others/earth/刷屏被禁言.jpg)
 ![](/others/earth/刷屏被禁言后私聊辱骂管理.jpg)
 ![](/others/earth/深夜潜入群聊刷屏.png)

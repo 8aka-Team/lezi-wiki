@@ -10,6 +10,10 @@
   
 ![](/others/earth/Wu.jpg)
 
+![](/others/earth/Wu/哔哩哔哩.jpg)
+
+https://space.bilibili.com/3546574909082318
+
 </details>
 
 # 在地球OL服务器里搞事

@@ -2,6 +2,6 @@
 目前该 大 佬 仅在地球村服务器群内出现，如果有额外的可以补充
 ![](/others/zAilyn/1.png)
 ![](/others/zAilyn/2.png)
-![](/others/zAilyn/3.png)
+![](/others/zAilyn/3.jpg)
 地球村官方在B站的视频
 https://www.bilibili.com/video/BV1A4SKYWExU

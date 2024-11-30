@@ -16,13 +16,19 @@
 </details>
 
 ### 珍贵现场录像（战虎视角）
-
+<details>
 <video controls width="640" height="360">
   <source src="/others/pankuler%E4%BC%A0/Screenrecorder-2024-04-16-19-59-50-487.mp4" type="video/mp4">
   您的浏览器不支持视频播放。
 </video>
+</details>
 
-[视频](./others/pankuler传/Video_21868113859052.mp4)
+<details>
+<video controls width="640" height="360">
+  <source src="/others/pankuler%E4%BC%A0/Video_21868113859052.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
+</details>
 
 ### 光 明 磊 落
 

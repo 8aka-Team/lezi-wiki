@@ -173,7 +173,7 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://www.emojiall.com/en/header-svg/%E2%98%9D%EF%B8%8F.svg',
         title: 'zAilyn传',
         desc: '听我说，把服务器的模组删掉，换我推荐的这个，好！',
-        link: '/article/zAilyn_',
+        link: '/article/zAilyn',
       },
     ],
   },

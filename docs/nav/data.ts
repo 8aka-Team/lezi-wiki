@@ -10,7 +10,7 @@ export const NAV_DATA: NavData[] = [
     title: '长篇',
     items: [
       {
-        icon: 'https://www.emojiall.com/en/header-svg/%E2%98%9D%EF%B8%8F.svg',
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%8C%8F.svg',
         title: '抽象魔怔地球传',
         desc: '我们有盒武器！谁也打败不了我们',
         link: '/article/earth',

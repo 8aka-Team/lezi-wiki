@@ -12,6 +12,8 @@
 
 </details>
 
+# 在地球OL服务器里搞事
+
 ### 自曝隐私
 <details>
   
@@ -23,25 +25,54 @@
 
 ![](/others/earth/后悔发布自己隐私信息.png)
 
+因为后悔发了自己个人信息刷屏AT管理员撤回，但被禁言了（滑稽）
+
+![](/others/earth/刷屏被禁言.png)
+
+![](/others/earth/刷屏被禁言后私聊辱骂管理.png)
+
 </details>
 
-###   在别人服务器群里引战、刷屏、发随机姓名
+###   在群里引战、刷屏、发姓名
 <details>
 <summary>点击展开长图</summary>
 
 简介：地球Online，是一个世界地图服务器，腐竹为迷离（暂不讨论），曾和地球村服务器联谊，地图存档均由战虎制作并调配，迷离提供高容量高RAM云主机用于生成大体积地图
 
 ![](/others/earth/0.jpg)
+
+后来试图欺骗群主迷离，不料截图证据一直存着
 ![](/others/earth/1.jpg)
 
-因为后悔发了自己个人信息刷屏AT管理员撤回，但被禁言了（滑稽）
-![](/others/earth/刷屏被禁言.png)
-![](/others/earth/刷屏被禁言后私聊辱骂管理.png)
+深夜潜入群聊刷屏炸群，记录于2024大年三十
+
 ![](/others/earth/深夜潜入群聊刷屏.png)
+
+刘弘本人词条：https://baike.baidu.com/item/%E5%88%98%E5%BC%98/1027041
 
 </details>
 
+### 接二连三的“开盒”
+<details>
+<summary>点击展开长图</summary>
+
+（生成大众名）
+
+![](/others/earth/开盒1.jpg)
+![](/others/earth/开盒2.jpg)
+![](/others/earth/开盒3.jpg)
+![](/others/earth/开盒4.png)
+
+</details>
+
+地球OL群记录告一段落
+
+# 烂土豆地球服务器/抽象魔怔地球/黏土地球
+
+它们前后换了好几个名字不知道是怎么想的
+
 ## 四大天王
+
 <details>
 <summary>点击展开</summary>
 
@@ -63,18 +94,7 @@
 
 </details>
 
-## 接二连三的开盒
-<details>
-<summary>点击展开长图</summary>
 
-（生成大众名）
-
-![](/others/earth/开盒1.jpg)
-![](/others/earth/开盒2.jpg)
-![](/others/earth/开盒3.jpg)
-![](/others/earth/开盒4.png)
-
-</details>
 
 ## T --- W -- 独立
 <details>
@@ -90,12 +110,15 @@
 
 
 
-### 到这里团体告一段落了
+### 到这里魔怔地球告一段落了
 519682869这个群截至仍禁言着，极有可能是转移阵地了，很可惜，我们的卧底没有跟上
 
 ![](/others/earth/群现状.jpg)
 
 # 接下来是Wu
+
+让我们回到地球OL
+
 ## 顶级召唤师
 <details>
 <summary>展开长图</summary>

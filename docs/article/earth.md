@@ -3,15 +3,27 @@
 
 
 ## 先记着这个Wu，后面要考
+
+<details>
+  
+<summary>点击展开大图</summary>
+  
 ![](/others/earth/Wu.jpg)
 
-### 自曝隐私
+</details>
 
+### 自曝隐私
+<details>
+  
+<summary>点击展开</summary>
+  
 ![](/others/earth/自曝.png)
 
 然后反悔了开始求人帮忙了
 
 ![](/others/earth/后悔发布自己隐私信息.png)
+
+</details>
 
 ###   在别人服务器群里引战、刷屏、发随机姓名
 <details>

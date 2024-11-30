@@ -96,7 +96,7 @@
 
 
 
-## T --- W -- 独立
+## T -- W -- 独立
 <details>
 <summary>政治敏感警告</summary>
 
@@ -132,19 +132,16 @@
 
 ## 究极嘴强王者
 
+加特林机枪都甘拜下风
+
 <details>
 
 <summary>展开长图</summary>
 
-恢复管理后开始继续用那套说辞刷屏、人身攻击，摇人炸群
-
-<br>
-
-<br>
+![](/others/earth/Wu/刷屏炸群.png)
 
 PS:据说所谓的真实姓名和照片是看了战虎发在小世界的和室友毕业合照抠下来的（不是查ICP备案！绝对不是😱）
 
-![](/others/earth/Wu/深夜邀请水军炸群.jpg)
 
 ![](/others/earth/Wu/1.png)
 ![](/others/earth/Wu/2.png)
@@ -168,5 +165,5 @@ MINEBBS帖子（第一人称叙事）
 https://www.minebbs.com/threads/22229
 https://www.minebbs.com/threads/ol-2.26752/
 
-所有已收录的逆天截图，均来自于潜入群聊的热心玩家
+所有已收录的逆天截图，来自于潜入群聊的热心玩家
 https://www.123pan.com/s/WiuUVv-l2P0H

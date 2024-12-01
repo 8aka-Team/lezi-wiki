@@ -264,6 +264,12 @@ export const NAV_DATA: NavData[] = [
         desc: 'B站刷到的视频',
         link: 'https://www.bilibili.com/video/BV1uZ421r7a2',
       },
+       {
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%91%91.svg',
+        title: '皇权论坛传奇',
+        desc: '最炫MC风',
+        link: 'https://map.earthvillage.top/MCBBS.mp4',
+      },
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: '♡传',

@@ -119,7 +119,7 @@ export const NAV_DATA: NavData[] = [
       {
         icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%90%BA.svg',
         title: '三人传',
-        desc: '三主角模式',
+        desc: '三主角模式|唯一有当事人本人参与编写（?）',
         link: '/article/三人传',
       },
     ],

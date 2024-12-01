@@ -6,10 +6,12 @@
 <details>
 ![](/others/XSDE/1.png)
 </details>
+
 ## 炸裂2
 <details>
 ![](/others/XSDE/2.png)
 </details>
+
 # 哎这个服没什么前途了
 
 那你TMD还呆在这干嘛

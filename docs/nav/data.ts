@@ -207,25 +207,25 @@ export const NAV_DATA: NavData[] = [
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: 'E5-5950x瓜',
-        desc: '想不出骚话',
+        desc: '这篇文档已经坠机了😭',
         link: 'https://docs.qq.com/doc/DSlVLdWF5b0NUZVpI',
       },
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: 'pickaxe传',
-        desc: '想不出骚话',
+        desc: '就是微篇里的Steve传，但是前传',
         link: 'https://docs.qq.com/doc/DRFJZWmR0d2pVblpC',
       },
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: '因Chem引起的一场笑话',
-        desc: '想不出骚话',
+        desc: '这篇文档也坠机了😭😭',
         link: 'https://shimo.im/docs/wV3VVVeYwYsMWK3y',
       },
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: '牛战士狂战录',
-        desc: '想不出骚话',
+        desc: '这篇文档也坠机了😭😭',
         link: 'https://docs.qq.com/doc/DQUVXUW9hQ2hSS1dB',
       },
       {

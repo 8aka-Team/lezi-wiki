@@ -46,6 +46,11 @@ features:
     details: 笨蛋驿站自己的栏
     link: https://docs.qq.com/doc/DQ1F1eEhOVkZ1eWtk
     linkText: 点击查看
+  - icon: 💁‍♀️
+    title: 美女大全
+    details: 想想你为什么要点进去
+    link: https://www.bilibili.com/video/BV1GJ411x7h7/
+    linkText: 点击查看
   - icon: ✈️
     title: 贡献与鸣谢
     details: 为乐子维基做出贡献！

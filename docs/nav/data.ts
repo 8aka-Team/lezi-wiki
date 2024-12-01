@@ -117,7 +117,7 @@ export const NAV_DATA: NavData[] = [
         link: '/article/青柠传',
       },
       {
-        icon: 'https://www.emojiall.com/images/120/joypixels/0033-20e3.png',
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%90%BA.svg',
         title: '三人传',
         desc: '三主角模式',
         link: '/article/三人传',
@@ -138,6 +138,11 @@ export const NAV_DATA: NavData[] = [
         title: 'NellyWidthPlugin传',
         desc: '这让我想起了以前的省电王',
         link: '/article/NellyWidthPlugin传',
+      },
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%90%92.svg',
+        title: 'XSDE传',
+        desc: '尽出馊主意',
+        link: '/article/XSDE',
       },
       {
         icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%A4%AF.svg',

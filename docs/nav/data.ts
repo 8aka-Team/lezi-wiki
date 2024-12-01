@@ -139,6 +139,7 @@ export const NAV_DATA: NavData[] = [
         desc: '这让我想起了以前的省电王',
         link: '/article/NellyWidthPlugin传',
       },
+      {
         icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%90%92.svg',
         title: 'XSDE传',
         desc: '尽出馊主意',

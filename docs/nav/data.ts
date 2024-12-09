@@ -69,6 +69,12 @@ export const NAV_DATA: NavData[] = [
         desc: 'buku到了梦寐以求的长篇里',
         link: '/article/Buku传',
       },
+      {
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%8C%8F.svg',
+        title: '抽象魔怔地球传',
+        desc: '看不顺就骂~讲不过就摇人炸~禁言踢群就是神权~我们有盒武器！谁也打败不了我们~',
+        link: '/article/earth',
+      },
     ],
   },
   {
@@ -111,9 +117,9 @@ export const NAV_DATA: NavData[] = [
         link: '/article/青柠传',
       },
       {
-        icon: 'https://www.emojiall.com/images/240/symbola/e0032.png',
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%90%BA.svg',
         title: '二人传',
-        desc: '双主角模式',
+        desc: '双主角模式|唯一有当事人本人参与编写（?）',
         link: '/article/二人传',
       },
     ],
@@ -134,7 +140,13 @@ export const NAV_DATA: NavData[] = [
         link: '/article/NellyWidthPlugin传',
       },
       {
-        icon: 'https://www.emojiall.com/images/120/twitter/twemoji-2.3/1f92f.png',
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%90%92.svg',
+        title: 'XSDE传',
+        desc: '尽出馊主意',
+        link: '/article/XSDE',
+      },
+      {
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%A4%AF.svg',
         title: 'Steve传',
         desc: '原来你也玩原神',
         link: '/article/Steve传',
@@ -152,7 +164,7 @@ export const NAV_DATA: NavData[] = [
         link: '/article/世人价传',
       },
       {
-        icon: 'https://www.emojiall.com/images/120/apple/ios-12.1/1f9e8.png',
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%A7%A8.svg',
         title: 'pankuler传',
         desc: '究极地图炮',
         link: '/article/pankuler传',
@@ -162,6 +174,12 @@ export const NAV_DATA: NavData[] = [
         title: '忍冬藤传',
         desc: '首先排除这是自己的问题',
         link: '/article/忍冬藤传',
+      },
+      {
+        icon: 'https://www.emojiall.com/en/header-svg/%E2%98%9D%EF%B8%8F.svg',
+        title: 'zAilyn传',
+        desc: '听我说，把服务器的模组删掉，换我推荐的这个，好！',
+        link: '/article/zAilyn',
       },
     ],
   },
@@ -189,25 +207,25 @@ export const NAV_DATA: NavData[] = [
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: 'E5-5950x瓜',
-        desc: '想不出骚话',
+        desc: '这篇文档已经坠机了😭',
         link: 'https://docs.qq.com/doc/DSlVLdWF5b0NUZVpI',
       },
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: 'pickaxe传',
-        desc: '想不出骚话',
+        desc: '就是微篇里的Steve传，但是前传',
         link: 'https://docs.qq.com/doc/DRFJZWmR0d2pVblpC',
       },
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: '因Chem引起的一场笑话',
-        desc: '想不出骚话',
+        desc: '这篇文档也坠机了😭😭',
         link: 'https://shimo.im/docs/wV3VVVeYwYsMWK3y',
       },
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: '牛战士狂战录',
-        desc: '想不出骚话',
+        desc: '这篇文档也坠机了😭😭',
         link: 'https://docs.qq.com/doc/DQUVXUW9hQ2hSS1dB',
       },
       {
@@ -230,8 +248,8 @@ export const NAV_DATA: NavData[] = [
       },
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
-        title: '提pr把build.yml“汉化”了',
-        desc: '还是汉化大佬',
+        title: '还是汉化大佬',
+        desc: '提pr把build.yml“汉化”了，是故意的还是不小心的🔫',
         link: 'https://github.com/Perfare/Zygisk-Il2CppDumper/pull/169',
       },
       {
@@ -246,6 +264,12 @@ export const NAV_DATA: NavData[] = [
         desc: 'B站刷到的视频',
         link: 'https://www.bilibili.com/video/BV1uZ421r7a2',
       },
+       {
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%91%91.svg',
+        title: '皇权论坛传奇',
+        desc: '最炫MC风',
+        link: 'https://map.earthvillage.top/MCBBS.mp4',
+      },
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: '♡传',
@@ -257,6 +281,12 @@ export const NAV_DATA: NavData[] = [
         title: '闪星传',
         desc: '鉴定为玩原神玩的',
         link: '/article/闪星传',
+      },
+            {
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%8D%88.svg',
+        title: '真·大瓜',
+        desc: '大瓜！速看，马上撤回',
+        link: '/article/真大瓜',
       },
     ],
   },

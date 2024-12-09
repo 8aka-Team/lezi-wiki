@@ -17,7 +17,7 @@
 
 # 📖 开始阅读
 
-https://lezi.yizhan.wiki
+https://map.earthvillage.top/lezi-wiki
 
 https://postyizhan.github.io/lezi-wiki
 

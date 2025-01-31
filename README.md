@@ -9,8 +9,8 @@
     <sup>集百处之乐，成一家之言</sup>
   </div>
 
-![watch](https://badgen.net/github/watchers/8aka-Team/lezi-Wiki)
-![stars](https://badgen.net/github/stars/8aka-Team/lezi-Wiki)
+![watch](https://badgen.net/github/watchers/8aka-Team/lezi-wiki)
+![stars](https://badgen.net/github/stars/8aka-Team/lezi-wiki)
 
 </div>
 

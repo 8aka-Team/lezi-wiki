@@ -146,6 +146,12 @@ export const NAV_DATA: NavData[] = [
         desc: '“你这个没有靓号的狗，别叫了孩子”',
         link: '/article/aa传',
       },
+      {
+        icon: 'https://www.emojiall.com/images/60/microsoft/1faaa.png',
+        title: 'G哥传',
+        desc: '你的 i9 CPU还不如我的 E5-2699',
+        link: '/article/G哥的i9级',
+      },
     ],
   },
   {

@@ -331,9 +331,9 @@ export const NAV_DATA: NavData[] = [
     items: [
       {
         icon: 'https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png',
-        title: 'issues',
+        title: 'Issues',
         desc: '投稿观察对象',
-        link: 'https://github.com/8aka-team/issues',
+        link: 'https://github.com/8aka-Team/lezi-wiki/issues',
       },
       {
         icon: 'https://ts1.tc.mm.bing.net/th/id/OSAAS.523DAEDD6842CF17AD1E0AE5A725AEBA?w=72&h=72&c=17&rs=1&o=6&dpr=1.6&pid=TechQna',

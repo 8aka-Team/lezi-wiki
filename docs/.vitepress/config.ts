@@ -44,10 +44,10 @@ export default defineConfig({
       label: '目录',
     },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/postyizhan/lezi-wiki' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/8aka-Team/lezi-wiki' }],
 
     footer: {
-      message: 'https://github.com/postyizhan/lezi-wiki',
+      message: 'https://github.com/8aka-Team/lezi-wiki',
       copyright: 'Copyright © 2019-present maomao',
     },
 

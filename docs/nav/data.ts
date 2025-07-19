@@ -235,6 +235,12 @@ export const NAV_DATA: NavData[] = [
         desc: '理想主义者',
         link: '/article/希哩哩传',
       },
+      {
+        icon: 'https://www.emojiall.com/images/60/microsoft/1f390.png',
+        title: 'Ygbs传',
+        desc: 'XP开服传奇，本人亲自撰写',
+        link: 'Ygbs传',
+      },
     ],
   },
   {
